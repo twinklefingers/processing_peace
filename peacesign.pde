@@ -14,7 +14,7 @@ void draw(){
     // only the last fill() runs when all uncommented
   
   strokeWeight(30); // sets boldness of lines
-  //stroke(191, 0, 100);  // changes color of lines
+  stroke(12.5 * sin(frameCount/100.0) + 87.5, 1, 1);  // changes color of lines
   ellipse(250, 250, 300, 300);
   //ellipseMode(CENTER);  // not needed when ellipse positioned as is on 500x500 canvas
   

@@ -9,3 +9,4 @@ I drew a simple shape.
 Decided to make a mood ring type app. Got more proficient with using colors
 
 ![alt tag](/first_drawing.png)
+updated

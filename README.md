@@ -1,6 +1,6 @@
-2016.08.31 
+2016.08.31
 
-Today I started learning Processing. 
+Today I started learning Processing.
 Really liking it!
 
 I drew a simple shape.
@@ -9,4 +9,4 @@ I drew a simple shape.
 Decided to make a mood ring type app. Got more proficient with using colors
 
 ![alt tag](/first_drawing.png)
-updated
+updated..
